@@ -1,4 +1,4 @@
-# 🌟 Gas Utility Service Project 🚀  
+# Gas Utility Service
 
 **A Django-powered application for seamless Gas utility service management!**  
 Whether you're a user requesting services or an admin managing them, this app has everything you need to simplify the process.  
