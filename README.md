@@ -39,10 +39,18 @@ Whether you're a user requesting services or an admin managing them, this app ha
 - 🔧 **Backend**: Powered by **Django** and **SQL** for robust performance.  
 
 ---
+## 📹 Video Guide  
 
+Here is a demonstration video:
+
+https://github.com/user-attachments/assets/0ffc10a8-a382-4a97-b2e0-a0f9efd57b83
+
+----
 ## 🛠️ Technology Stack  
 
-| **Component**      | **Technology**       |
+| **Component**      | **Technology
+
+**       |
 |---------------------|----------------------|
 | Frontend           | HTML, CSS, JavaScript |
 | Backend            | Django               |
